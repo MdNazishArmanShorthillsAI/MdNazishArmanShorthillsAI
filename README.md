@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Md Nazish Arman
 
-I am currently working at Shorthills AI as Software Developer Trainee
+I am currently working at Shorthills AI as Software Developer
 
 - 🔭 I’m currently working on Web Scraping.
 - 🌱 I’m currently exploring more about Langchain.
