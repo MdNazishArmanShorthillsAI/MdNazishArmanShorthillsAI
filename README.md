@@ -1,10 +1,40 @@
 ### Hi there 👋 I am Md Nazish Arman
 
-I am currently working at Shorthills AI as Software Developer
+## 🚀 About Me
+I am currently working at **Shorthills AI** as a **Software Developer**. Passionate about backend development, AI, and large language models (LLMs), I love building scalable solutions and optimizing retrieval systems.
 
-- 🔭 I’m currently working on Web Scraping.
-- 🌱 I’m currently exploring more about Langchain.
-- 💬 Ask me about Python, SQL, Linux, Flutter App Development, Open Source Contribution and Git.
+## 🔭 Current Work
+- **Web Scraping** & Data Extraction
+- **API Development** & Integration
+- **Middleware Implementation** & JWT Authorization
+- **Deployment of Django Servers**
+- **Enhancing Retrieval-Augmented Generation (RAG) Systems**
+- **Optimizing Query Retrieval in Graph Databases**
+
+## 🌱 Exploring
+- **LangChain** for LLM applications
+- **Vector Databases** for knowledge retrieval
+- **RAGAS Framework** for evaluating RAG systems
+- **MLflow** for tracking LLM experiments
+
+## 💡 Recent Contributions
+- Implemented **summarization & QnA** in RAG system
+- Worked with **vector databases** to generate an information guide for healthcare systems
+- Implemented **citations** in RAG system for better traceability
+- Improved **graph query retrieval** time and accuracy
+- Implemented **custom PDF parsing techniques**
+- Enhanced **library support for custom prompts**
+
+## 💬 Ask Me About
+- **Python, SQL, Linux, Django**
+- **Flutter App Development**
+- **Open Source Contributions**
+- **Git & CI/CD Pipelines**
+- **Optimizing RAG systems with Graph & Vector Databases**
+
+Looking forward to collaborating and learning! 🚀
+
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MdNazishArmanShorthillsAI&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
